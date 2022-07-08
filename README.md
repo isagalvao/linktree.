@@ -9,7 +9,7 @@ Neste projeto desenvolvemos uma pagina web em forma de perfil para centralizar o
 - [x] Criar funcionalidades em JS
 
 
-## 👾 Para acessar perfil pessoal:
+## 👾 Para acessar:
 
 https://maratona-explorer-2-pi.vercel.app/
 
