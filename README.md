@@ -1,6 +1,6 @@
 # maratona-explorer-2
 
-Neste projeto foi desenvolvido uma pagina web em forma de perfil para centralizar os link de redes sociais.
+Neste projeto desenvolvemos uma pagina web em forma de perfil para centralizar os link de redes sociais.
 
 ## Processo de criação do projeto:
 
