@@ -6,7 +6,6 @@ Neste projeto desenvolvemos uma pagina web em forma de perfil para centralizar o
 
 - [x] Criar estilo Css
 - [x] Criar estrutura Html
-- [x] Criar funcionalidades em JS
 
 
 ## 👾 Para acessar:
