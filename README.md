@@ -10,7 +10,7 @@ Neste projeto desenvolvemos uma pagina web em forma de perfil para centralizar o
 
 ## 👾 Para acessar:
 
-https://maratona-explorer-2-pi.vercel.app/
+https://links-isabelle-galvao.vercel.app/
 
 
 ## 🤝 Colaboradores
