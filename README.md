@@ -1,4 +1,4 @@
-# maratona-explorer-2
+# linktree
 
 Neste projeto desenvolvemos uma pagina web em forma de perfil para centralizar os link de redes sociais.
 
